@@ -1,0 +1,7 @@
+[meta]
+name = "Blender Orbit"
+author = "Silkie"
+category = "Map Editor"
+version = "0.2.0"
+[script]
+dependencies = ["Camera", "Editor"]
